@@ -1,8 +1,5 @@
 This digital artifact is organized as follows:
 
-
-ReproducibilityChallenge/
-
   compile/
   
     gpuinit.sh           - MemXCT compilation script
